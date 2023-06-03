@@ -89,7 +89,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/GP-Smith/laravel-crm"
+            "url": "https://github.com/GP-Smith/laravel-encryptable"
         }
     ],
     "extra": {
